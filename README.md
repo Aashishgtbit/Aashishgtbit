@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Aashishgtbit/Aashishgtbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on React native 📱.
+- 🌱 I’m currently exploring Mobile develpment.
+- 👯 I’m looking to collaborate on Mobile and Web-dev projects.
+- 💬 Ask me about Frontend development.
+- 📫 How to reach me: [@Aashish_Tiwari_](https://twitter.com/Aashish_Tiwari_)
